@@ -7,4 +7,5 @@
 - JAVA > HTML > CSS > JS > Bootstrap > Git > Reactjs
 
 - Now I Completed Java 
-- HTML AND CSS IN PROGRESS (^_^) \\-  
+- HTML AND CSS Completed
+- Javascript   (^_^) \\-  
