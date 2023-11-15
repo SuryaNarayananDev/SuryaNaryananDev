@@ -8,4 +8,4 @@
 
 - Now I Completed Java 
 - HTML AND CSS Completed
-- Javascript   (^_^) \\-  
+- Javascript   90% completed ^ (^_^) \\-  
