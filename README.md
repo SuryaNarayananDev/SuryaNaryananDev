@@ -4,8 +4,9 @@
 -
 -  First 3 Month ROADMap
 - ---------
-- JAVA > HTML > CSS > JS > Bootstrap > Git > Reactjs
+- JAVA > HTML > CSS > JS > JQuery > Bootstrap > Git > Reactjs
 
 - Now I Completed Java 
 - HTML AND CSS Completed
-- Javascript   90% completed ^ (^_^) \\-  
+- Javascript Completed
+- JQuery on Progress (^-^)
