@@ -9,4 +9,4 @@
 - Now I Completed Java 
 - HTML AND CSS Completed
 - Javascript Completed
-- JQuery on Progress (^-^)
+- JQuery on Progress 90% completed (^-^)
