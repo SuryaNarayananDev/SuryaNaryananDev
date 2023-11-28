@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SuryaNaryananDev?tab=repositories](https://github.com/SuryaNaryananDev?tab=repositories)
 
-- 📝 I regularly write articles on [https://suryanaryanandev.blogspot.com/](https://suryanaryanandev.blogspot.com/)
+- 📝 I regularly write articles 
 
 - 📫 How to reach me **suryavignesh6238@gmail.com**
 
